@@ -1,0 +1,1 @@
+import{r as t,o as s,c as r,a as e,b as a}from"./index-89e280d5.js";const c={class:"relative"},n={class:"bg-white rounded w-full"},u={__name:"Home",setup(_){return(l,i)=>{const o=t("router-view");return s(),r("div",c,[e("div",n,[e("div",null,[a(o)])])])}}};export{u as default};
